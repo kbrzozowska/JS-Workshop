@@ -1,1 +1,1 @@
-# JS-Workshop
+Simple game created at CodersLab workshops.
